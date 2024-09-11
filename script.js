@@ -29,7 +29,7 @@ try {
   // Assign the _0x36c22e function to N's prototype instead
   N.prototype.onClickAuto = _0x36c22e;
   console.log(`${_0x4f2050} Script loaded `, _0x54054d);
-  console.log(`${_0x4f2050} Crack by BartaNawOfficial `, _0x54054d);
+  console.log(`${_0x4f2050} Script by Niloy `, _0x54054d);
 } catch (e) {
   console.log(
     `${_0x4f2050}An error occurred, the breakpoint was not set correctly!`,
